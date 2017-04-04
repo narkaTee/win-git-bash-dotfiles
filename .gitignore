@@ -1,0 +1,6 @@
+# Ignore-all...
+*
+# ...but
+!.gitignore
+!.bash_profile
+!.minttyrc
